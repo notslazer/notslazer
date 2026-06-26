@@ -15,22 +15,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=notslazer&theme=tokyonight&hide_border=true"/> -->
-<img
-       src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter"/>
+   <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=notslazer&theme=tokyonight&hide_border=true"/> 
+<!--<img
+       src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter"/> -->
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=notslazer&theme=tokyo-night&hide_border=true"/> -->
-  <img src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter&view=pulse"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notslazer&theme=tokyo-night&hide_border=true"/>
+  <!-- <img src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter&view=pulse"/> -->
 </p>
 
 <p align="center">
   <!-- <img height="160"
        src="https://github-readme-streak-stats.herokuapp.com/?user=notslazer&theme=tokyonight&hide_border=true"/> -->
-<img
-       src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter&hide_background=true&view=monthly"/>
+<!-- <img
+       src="https://commitpulse.vercel.app/api/streak?user=notslazer&theme=github&scale=log&font=Inter&hide_background=true&view=monthly"/> -->
 </p>
