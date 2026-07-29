@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/690612199277723659?hideTimestamp=true&bg=b5fdc7&borderRadius=30px&theme=light&idleMessage=Hi%20there%20👋)](https://discord.com/users/690612199277723659?hideTimestamp=true&bg=b5fdc7&borderRadius=30px&theme=light&idleMessage=Hi%20there%20👋)
+[![Discord Presence](https://lanyard.cnrad.dev/api/690612199277723659?hideTimestamp=true&bg=b5fdc7&borderRadius=30px&theme=light&idleMessage=Hello%20there%20👋)](https://discord.com/users/690612199277723659?hideTimestamp=true&bg=b5fdc7&borderRadius=30px&theme=light&idleMessage=Hello%20there%20👋)
 
 ## 🌐 Connect With Me
 <p align="center">
